@@ -1,0 +1,80 @@
+* {
+  margin: 0px;
+  padding: 0; 
+  font-family: none;
+}
+
+.content-wrap{
+  background: #eeeeee
+}
+
+
+.me-auto {
+  margin-left: 350px;
+}
+
+.home__right{
+  margin-left: 150px;
+}
+.left_side{ 
+  width: 200px;
+  float: left;
+} 
+.right_side { 
+  width: 200px; 
+  float: right; 
+  margin-right: 80px;
+} 
+
+.search-button{
+  width: 200px;
+}
+
+.sign-button {
+  width: 125px;
+}
+
+.first-element{
+  width: 30px;
+  height: 30px;
+}
+
+.how-to{
+  background: rgb(170, 165, 165);
+  border-radius: 20px;
+  border: solid 2px;
+}
+
+.how-to-text{
+  margin-left: -15px;
+}
+
+
+.how-it-work{
+  padding-bottom: 100px;
+}
+
+.how-it-work-text{
+  margin-top: 100px;
+}
+
+.first-logo{
+  margin-top: 200px;
+}
+
+.left_side_logo{
+  margin-right: 200px;
+}
+
+.form-controls{
+  width: 300px;
+}
+
+
+
+
+
+
+
+
+

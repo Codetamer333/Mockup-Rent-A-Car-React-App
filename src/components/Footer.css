@@ -1,0 +1,34 @@
+.main-footer{
+    color: black;
+    background-color: rgb(208, 208, 208);
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+
+.cars-logo{
+    width: 500px;
+    margin-left: 500px;
+    padding-top: 30px;
+}
+
+/* WhyChooseUs CSS */
+
+.right_side1{
+    width: 400px;
+    height: 100px;
+}
+
+.login-signUp{
+    width: 300px;
+}
+
+.x-x{
+    padding-bottom: 200px;
+}
+
+/*----------*/
+
+.car-text{
+    border-top:solid 1px;
+}
